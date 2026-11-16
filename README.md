@@ -1,5 +1,4 @@
 # TEP process monitoring
-It is recommended that first the environment is set up. I installed python, nvim, git and finally also jupyter.
 
 Status: work in progress. PCA baseline on the Tennessee Eastman Process, with an AI extension planned.
 
